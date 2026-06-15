@@ -117,3 +117,7 @@ go build -o vmagent cmd/main.go
 * [x] **Phase 2.5:** Modular API restructure (separating ingestion and dashboard logic).
 * [ ] **Phase 3:** Frontend UI Dashboard (Single Pane of Glass).
 * [ ] **Phase 4:** Threat Intelligence Correlation (Integrating OSV and NVD for real-time CVE mapping).
+
+NOTE:
+
+This project is still under development.
