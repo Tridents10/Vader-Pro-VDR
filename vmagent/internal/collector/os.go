@@ -5,7 +5,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Tridents10/VDR/vmagent/internal/models"
+	"github.com/Tridents10/Vader-Pro-VDR/vmagent/internal/models"
 	"github.com/shirou/gopsutil/v3/host"
 )
 

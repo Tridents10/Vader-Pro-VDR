@@ -5,7 +5,7 @@ package collector
 import (
 	"strings"
 
-	"github.com/Tridents10/VDR/vmagent/internal/models"
+	"github.com/Tridents10/Vader-Pro-VDR/vmagent/internal/models"
 
 	"golang.org/x/sys/windows/registry"
 )

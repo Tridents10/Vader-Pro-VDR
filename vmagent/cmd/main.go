@@ -5,16 +5,16 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/Tridents10/VDR/vmagent/internal/collector"
-	"github.com/Tridents10/VDR/vmagent/internal/identity"
-	"github.com/Tridents10/VDR/vmagent/internal/logger"
-	"github.com/Tridents10/VDR/vmagent/internal/models"
-	"github.com/Tridents10/VDR/vmagent/internal/storage"
-	"github.com/Tridents10/VDR/vmagent/internal/transport"
+	"github.com/Tridents10/Vader-Pro-VDR/vmagent/internal/collector"
+	"github.com/Tridents10/Vader-Pro-VDR/vmagent/internal/identity"
+	"github.com/Tridents10/Vader-Pro-VDR/vmagent/internal/logger"
+	"github.com/Tridents10/Vader-Pro-VDR/vmagent/internal/models"
+	"github.com/Tridents10/Vader-Pro-VDR/vmagent/internal/storage"
+	"github.com/Tridents10/Vader-Pro-VDR/vmagent/internal/transport"
 )
 
 const (
-	agentVersion = "1.0.0"
+	agentVersion = "1.1.0"
 	outputDir    = "output"
 )
 

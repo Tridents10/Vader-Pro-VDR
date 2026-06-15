@@ -9,7 +9,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/Tridents10/VDR/vmagent/internal/models"
+	"github.com/Tridents10/Vader-Pro-VDR/vmagent/internal/models"
 )
 
 // The AES-256 Encryption Key

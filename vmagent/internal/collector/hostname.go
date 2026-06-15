@@ -5,7 +5,7 @@ import (
 	"os/user"
 	"time"
 
-	"github.com/Tridents10/VDR/vmagent/internal/models"
+	"github.com/Tridents10/Vader-Pro-VDR/vmagent/internal/models"
 )
 
 // CollectHost gathers hostname, current user, and timestamp.
